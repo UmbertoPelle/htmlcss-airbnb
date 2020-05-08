@@ -31,6 +31,7 @@ li{
 a{
   margin-right: 10px;
   text-decoration: none;
+  font-family: 'Lobster', cursive;
 }
 
 .logo{
@@ -74,6 +75,7 @@ main{
   color: white;
   font-size: 30px;
   text-shadow: 2px 2px red;
+  font-family: 'Lobster', cursive;
 }
 
 /* caricamento immagine */
